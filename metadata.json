@@ -1,0 +1,5 @@
+{
+  "name": "MOODI Gestion",
+  "description": "A comprehensive budget management system for a furniture store. It allows managing materials, composite products, generating quotes, tracking work in progress, and handling company settings and user roles.",
+  "requestFramePermissions": []
+}
